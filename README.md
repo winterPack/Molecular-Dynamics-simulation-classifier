@@ -22,4 +22,4 @@ python CSP_classification.py
 python evaluation.py
 ```
 
-Training data is not included in this repository (exceeds the 1G limit). For request, please contact the paper's correponding author.
+Training data is not included in this repository (exceeds the 1G limit). For requests, please contact the paper's correponding author.
